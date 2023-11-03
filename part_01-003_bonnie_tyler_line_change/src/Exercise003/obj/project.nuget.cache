@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OATGgLwjtohzEQhHoKWccnUhyLP7zgFboVRAVMjqhfpBYvDJQ7/3a/8ZpU/8vy7FkeSsndPMAAI6T5GKZXvJVw==",
+  "success": true,
+  "projectFilePath": "/Users/mariyakabdulova/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet23/part_01-003_bonnie_tyler_line_change/src/Exercise003/Exercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/mariyakabdulova/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/mariyakabdulova/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/mariyakabdulova/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.15/microsoft.netcore.app.host.osx-arm64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
